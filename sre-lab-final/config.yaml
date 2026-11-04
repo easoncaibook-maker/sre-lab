@@ -2,7 +2,7 @@
 # 改阈值不用动代码，重启即生效。
 
 thresholds:
-  cpu_warn_pct: 80      # CPU 使用率告警阈值(%)
+  cpu_warn_pct: 75      # CPU 使用率告警阈值(%)
   mem_warn_pct: 85      # 内存使用率告警阈值(%)
   disk_warn_pct: 85     # 磁盘使用率告警阈值(%)
 
